@@ -34,3 +34,10 @@ Documentation available at `http://localhost:8000/docs`.
 
 ## License
 MIT License. Developed by André Belarmino Alves.
+
+## 📊 Data Sources & Engineering Benchmarks
+Calibrated using peer-reviewed materials science datasets and industrial sensor telemetry:
+- **UCI Concrete Compressive Strength Benchmark (Prof. I-Cheng Yeh):** 1,030 lab-tested concrete mix formulations across variable water-binder ratios and supplementary pozzolanic materials.
+- **EMPA / SIMA Z24 Bridge Benchmark:** 1-year continuous accelerometer and strain gauge telemetry on a prestressed concrete bridge under ambient traffic and progressive induced damage.
+
+👉 **Comprehensive feature descriptions, sensor channels, and data dictionary are documented in [DATA_SOURCES.md](DATA_SOURCES.md).**
